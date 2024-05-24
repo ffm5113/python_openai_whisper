@@ -42,4 +42,4 @@ Follow the prompts to enter the file path of the audio file and choose the desir
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
