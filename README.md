@@ -1,6 +1,6 @@
 # Python OpenAI Whisper Speech to Text Transcription
 
-This script provides a simple interface to transcribe audio files using the OpenAI API's speech-to-text functionality, powered by the Whisper model. The result can be returned to the console as text or VTT (WebVTT) format.
+This Python script provides a simple interface to transcribe audio files using the OpenAI API's speech-to-text functionality, powered by the Whisper model. The result can be returned to the console as text or VTT (WebVTT) format.
 
 ## Installation
 
