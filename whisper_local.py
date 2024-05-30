@@ -1,8 +1,6 @@
 # This script transcribes audio files using the OpenAI API's speech-to-text functionality
 # powered by the Whisper model. The result can be returned to console as text or vtt format.
-
 # Before proceeding, openai python client library is required. Install with pip install openai
-
 # File size limited to 25 MB
 
 from openai import OpenAI
