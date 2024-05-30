@@ -32,7 +32,7 @@ python whisper_local.py
 
 Follow the prompts to enter the file path of the audio file and choose the desired response format (text or vtt).
 
-**Note:** To access the OpenAI API, you will need an API key. Please refer to the OpenAI API documentation for instructions on how to obtain and use the API key.
+**Note:** To access the OpenAI API, you will need an API key. File size is limited to 25 MB. Please refer to the OpenAI API documentation for instructions on how to obtain and use the API key.
 
 ### Documentation
 
