@@ -3,6 +3,8 @@
 
 # Before proceeding, openai python client library is required. Install with pip install openai
 
+# File size limited to 25 MB
+
 from openai import OpenAI
 import os
 
